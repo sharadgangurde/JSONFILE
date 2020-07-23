@@ -7,7 +7,8 @@
 			"price": 110,
 			"desc1": "Available Offers",
 			"desc2": "Bank Offer 10% Instant Discount on ICICI Bank Credit and Debit CardsT&C",
-			"desc3": "Bank Offer Rs30 Instant Discount on UPI T&C"
+			"desc3": "Bank Offer Rs30 Instant Discount on UPI T&C",
+			"amount": 0
 		},
 		{
 			"productId": 2,
@@ -16,7 +17,8 @@
 			"price": 91,
 			"desc1": "Available Offers",
 			"desc2": "Bank Offer 10% Instant Discount on ICICI Bank Credit and Debit CardsT&C",
-			"desc3": "Bank Offer Rs30 Instant Discount on UPI T&C"
+			"desc3": "Bank Offer Rs30 Instant Discount on UPI T&C",
+			"amount": 0
 		},
 		{
 			"productId": 3,
@@ -25,7 +27,8 @@
 			"price": 94.5,
 			"desc1": "Available Offers",
 			"desc2": "Bank Offer 10% Instant Discount on ICICI Bank Credit and Debit CardsT&C",
-			"desc3": "Bank Offer Rs30 Instant Discount on UPI T&C"
+			"desc3": "Bank Offer Rs30 Instant Discount on UPI T&C",
+			"amount": 0
 		},
 		{
 			"productId": 4,
@@ -34,7 +37,8 @@
 			"price": 438.9,
 			"desc1": "Available Offers",
 			"desc2": "Bank Offer 10% Instant Discount on ICICI Bank Credit and Debit CardsT&C",
-			"desc3": "Bank Offer Rs30 Instant Discount on UPI T&C"
+			"desc3": "Bank Offer Rs30 Instant Discount on UPI T&C",
+			"amount": 0
 		},
 		{
 			"productId": 5,
@@ -43,7 +47,8 @@
 			"price": 20,
 			"desc1": "Available Offers",
 			"desc2": "Bank Offer 10% Instant Discount on ICICI Bank Credit and Debit CardsT&C",
-			"desc3": "Bank Offer Rs30 Instant Discount on UPI T&C"
+			"desc3": "Bank Offer Rs30 Instant Discount on UPI T&C",
+			"amount": 0
 		},
 		{
 			"productId": 6,
@@ -52,7 +57,8 @@
 			"price": 20,
 			"desc1": "Available Offers",
 			"desc2": "Bank Offer 10% Instant Discount on ICICI Bank Credit and Debit CardsT&C",
-			"desc3": "Bank Offer Rs30 Instant Discount on UPI T&C"
+			"desc3": "Bank Offer Rs30 Instant Discount on UPI T&C",
+			"amount": 0
 		},
 		{
 			"productId": 7,
@@ -61,7 +67,8 @@
 			"price": 20,
 			"desc1": "Available Offers",
 			"desc2": "Bank Offer 10% Instant Discount on ICICI Bank Credit and Debit CardsT&C",
-			"desc3": "Bank Offer Rs30 Instant Discount on UPI T&C"
+			"desc3": "Bank Offer Rs30 Instant Discount on UPI T&C",
+			"amount": 0
 		},
 		{
 			"productId": 8,
@@ -70,7 +77,8 @@
 			"price": 20,
 			"desc1": "Available Offers",
 			"desc2": "Bank Offer 10% Instant Discount on ICICI Bank Credit and Debit CardsT&C",
-			"desc3": "Bank Offer Rs30 Instant Discount on UPI T&C"
+			"desc3": "Bank Offer Rs30 Instant Discount on UPI T&C",
+			"amount": 0
 		},
 		{
 			"productId": 9,
@@ -79,7 +87,8 @@
 			"price": 20,
 			"desc1": "Available Offers",
 			"desc2": "Bank Offer 10% Instant Discount on ICICI Bank Credit and Debit CardsT&C",
-			"desc3": "Bank Offer Rs30 Instant Discount on UPI T&C"
+			"desc3": "Bank Offer Rs30 Instant Discount on UPI T&C",
+			"amount": 0
 		},
 		{
 			"productId": 10,
@@ -88,7 +97,8 @@
 			"price": 91,
 			"desc1": "Available Offers",
 			"desc2": "Bank Offer 10% Instant Discount on ICICI Bank Credit and Debit CardsT&C",
-			"desc3": "Bank Offer Rs30 Instant Discount on UPI T&C"
+			"desc3": "Bank Offer Rs30 Instant Discount on UPI T&C",
+			"amount": 0
 		}
 	]
 }
